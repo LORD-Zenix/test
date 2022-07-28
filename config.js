@@ -46,11 +46,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/AryBotz'
-global.sgh = 'https://github.com/arybotz'
-global.sgc = 'https://chat.whatsapp.com/JWMl9LW5g0i0RSj7ophXAk'
-global.sdc = 'https://github.com/arybotz'
-global.snh = 'https://youtube.com/c/AryBotz'
+global.sig = 'https://instagram.com/lordzenix'
+global.sgh = 'https://github.com/LORD-Zenix'
+global.sgc = 'https://chat.whatsapp.com/CUCsbw9sdKgDlU688Byegw'
+global.sdc = 'https://github.com/LORD-Zenix'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
 global.pdana = '085701863281'
@@ -114,7 +114,7 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 ZennBot |ZenixDCode 」' //Main Watermark
+global.wm = '「 ZennBot | ZenixDCode 」' //Main Watermark
 global.wm2 = '    乂 ZennBot 乂     '
 global.wm3 = 'ZenixDCode |ᗪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
